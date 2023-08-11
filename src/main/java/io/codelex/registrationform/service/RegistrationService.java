@@ -9,4 +9,5 @@ public interface RegistrationService {
     void saveUser(RegisteredUser user);
 
     List<RegisteredUser> getAllUsers();
+
 }
